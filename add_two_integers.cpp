@@ -1,10 +1,10 @@
-#include<iostre>
+#include<iostream>
 
-using namespace standard
+using namespace std;
 
 int main(){
-	int a b;
-	input(a)
+	int a,b;
+	cin>>a;
 	cin>>b;
 	cout<a+b;
 
